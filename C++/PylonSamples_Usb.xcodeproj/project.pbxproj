@@ -1,0 +1,658 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		1FDD630C1CB3A40100485402 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485402 /* DeviceRemovalHandling.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = DeviceRemovalHandling;
+		};
+		1FDD630C1CB3A40100485403 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485403 /* Grab.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Grab;
+		};
+		1FDD630C1CB3A40100485404 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485404 /* Grab_CameraEvents_Usb.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Grab_CameraEvents_Usb;
+		};
+		1FDD630C1CB3A40100485405 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485405 /* Grab_ChunkImage_Usb.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Grab_ChunkImage_Usb;
+		};
+		1FDD630C1CB3A40100485407 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485407 /* Grab_MultipleCameras.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Grab_MultipleCameras;
+		};
+		1FDD630C1CB3A40100485408 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485408 /* Grab_Strategies.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Grab_Strategies;
+		};
+		1FDD630C1CB3A40100485410 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485410 /* Grab_UsingExposureEndEvent_Usb.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Grab_UsingExposureEndEvent_Usb;
+		};
+		1FDD630C1CB3A40100485411 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485411 /* Grab_UsingGrabLoopThread.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Grab_UsingGrabLoopThread;
+		};
+		1FDD630C1CB3A40100485412 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485412 /* Grab_UsingSequencer_Usb.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Grab_UsingSequencer_Usb;
+		};
+		1FDD630C1CB3A40100485414 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485414 /* ParametrizeCamera_AutoFunctions_Usb.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = ParametrizeCamera_AutoFunctions_Usb;
+		};
+		1FDD630C1CB3A40100485415 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485415 /* ParametrizeCamera_Configurations.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = ParametrizeCamera_Configurations;
+		};
+		1FDD630C1CB3A40100485416 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485416 /* ParametrizeCamera_GenericParameterAccess.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = ParametrizeCamera_GenericParameterAccess;
+		};
+		1FDD630C1CB3A40100485417 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485417 /* ParametrizeCamera_LoadAndSave.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = ParametrizeCamera_LoadAndSave;
+		};
+		1FDD630C1CB3A40100485419 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485419 /* ParametrizeCamera_NativeParameterAccess_Usb.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = ParametrizeCamera_NativeParameterAccess_Usb;
+		};
+		1FDD630C1CB3A40100485421 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485421 /* ParametrizeCamera_UserSets_Usb.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = ParametrizeCamera_UserSets_Usb;
+		};
+		1FDD630C1CB3A40100485423 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485423 /* Utility_Image.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Utility_Image;
+		};
+		1FDD630C1CB3A40100485424 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485424 /* Utility_ImageFormatConverter.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Utility_ImageFormatConverter;
+		};
+		1FDD630C1CB3A40100485425 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485425 /* Utility_ImageLoadAndSave.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Utility_ImageLoadAndSave;
+		};
+		1FDD630C1CB3A40100485426 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FDD63081CB3A40100485426 /* Grab_UsingBufferFactory.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2FDFFB431CB27BBC00734AF5;
+			remoteInfo = Grab_UsingBufferFactory;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2FDD63081CB3A40100485402 /* DeviceRemovalHandling.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = DeviceRemovalHandling.xcodeproj; path = ./DeviceRemovalHandling/DeviceRemovalHandling.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485403 /* Grab.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Grab.xcodeproj; path = ./Grab/Grab.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485404 /* Grab_CameraEvents_Usb.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Grab_CameraEvents_Usb.xcodeproj; path = ./Grab_CameraEvents/Grab_CameraEvents_Usb.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485405 /* Grab_ChunkImage_Usb.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Grab_ChunkImage_Usb.xcodeproj; path = ./Grab_ChunkImage/Grab_ChunkImage_Usb.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485407 /* Grab_MultipleCameras.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Grab_MultipleCameras.xcodeproj; path = ./Grab_MultipleCameras/Grab_MultipleCameras.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485408 /* Grab_Strategies.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Grab_Strategies.xcodeproj; path = ./Grab_Strategies/Grab_Strategies.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485410 /* Grab_UsingExposureEndEvent_Usb.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Grab_UsingExposureEndEvent_Usb.xcodeproj; path = ./Grab_UsingExposureEndEvent/Grab_UsingExposureEndEvent_Usb.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485411 /* Grab_UsingGrabLoopThread.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Grab_UsingGrabLoopThread.xcodeproj; path = ./Grab_UsingGrabLoopThread/Grab_UsingGrabLoopThread.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485412 /* Grab_UsingSequencer_Usb.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Grab_UsingSequencer_Usb.xcodeproj; path = ./Grab_UsingSequencer/Grab_UsingSequencer_Usb.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485414 /* ParametrizeCamera_AutoFunctions_Usb.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ParametrizeCamera_AutoFunctions_Usb.xcodeproj; path = ./ParametrizeCamera_AutoFunctions/ParametrizeCamera_AutoFunctions_Usb.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485415 /* ParametrizeCamera_Configurations.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ParametrizeCamera_Configurations.xcodeproj; path = ./ParametrizeCamera_Configurations/ParametrizeCamera_Configurations.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485416 /* ParametrizeCamera_GenericParameterAccess.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ParametrizeCamera_GenericParameterAccess.xcodeproj; path = ./ParametrizeCamera_GenericParameterAccess/ParametrizeCamera_GenericParameterAccess.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485417 /* ParametrizeCamera_LoadAndSave.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ParametrizeCamera_LoadAndSave.xcodeproj; path = ./ParametrizeCamera_LoadAndSave/ParametrizeCamera_LoadAndSave.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485419 /* ParametrizeCamera_NativeParameterAccess_Usb.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ParametrizeCamera_NativeParameterAccess_Usb.xcodeproj; path = ./ParametrizeCamera_NativeParameterAccess/ParametrizeCamera_NativeParameterAccess_Usb.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485421 /* ParametrizeCamera_UserSets_Usb.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ParametrizeCamera_UserSets_Usb.xcodeproj; path = ./ParametrizeCamera_UserSets/ParametrizeCamera_UserSets_Usb.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485423 /* Utility_Image.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Utility_Image.xcodeproj; path = ./Utility_Image/Utility_Image.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485424 /* Utility_ImageFormatConverter.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Utility_ImageFormatConverter.xcodeproj; path = ./Utility_ImageFormatConverter/Utility_ImageFormatConverter.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485425 /* Utility_ImageLoadAndSave.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Utility_ImageLoadAndSave.xcodeproj; path = ./Utility_ImageLoadAndSave/Utility_ImageLoadAndSave.xcodeproj; sourceTree = "<group>"; };
+		2FDD63081CB3A40100485426 /* Grab_UsingBufferFactory.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Grab_UsingBufferFactory.xcodeproj; path = ./Grab_UsingBufferFactory/Grab_UsingBufferFactory.xcodeproj; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2FDD63011CB3A3F6004854F9 = {
+			isa = PBXGroup;
+			children = (
+				2FDD63081CB3A40100485402 /* DeviceRemovalHandling.xcodeproj */,
+				2FDD63081CB3A40100485403 /* Grab.xcodeproj */,
+				2FDD63081CB3A40100485404 /* Grab_CameraEvents_Usb.xcodeproj */,
+				2FDD63081CB3A40100485405 /* Grab_ChunkImage_Usb.xcodeproj */,
+				2FDD63081CB3A40100485407 /* Grab_MultipleCameras.xcodeproj */,
+				2FDD63081CB3A40100485408 /* Grab_Strategies.xcodeproj */,
+				2FDD63081CB3A40100485410 /* Grab_UsingExposureEndEvent_Usb.xcodeproj */,
+				2FDD63081CB3A40100485411 /* Grab_UsingGrabLoopThread.xcodeproj */,
+				2FDD63081CB3A40100485412 /* Grab_UsingSequencer_Usb.xcodeproj */,
+				2FDD63081CB3A40100485414 /* ParametrizeCamera_AutoFunctions_Usb.xcodeproj */,
+				2FDD63081CB3A40100485415 /* ParametrizeCamera_Configurations.xcodeproj */,
+				2FDD63081CB3A40100485416 /* ParametrizeCamera_GenericParameterAccess.xcodeproj */,
+				2FDD63081CB3A40100485417 /* ParametrizeCamera_LoadAndSave.xcodeproj */,
+				2FDD63081CB3A40100485419 /* ParametrizeCamera_NativeParameterAccess_Usb.xcodeproj */,
+				2FDD63081CB3A40100485421 /* ParametrizeCamera_UserSets_Usb.xcodeproj */,
+				2FDD63081CB3A40100485423 /* Utility_Image.xcodeproj */,
+				2FDD63081CB3A40100485424 /* Utility_ImageFormatConverter.xcodeproj */,
+				2FDD63081CB3A40100485425 /* Utility_ImageLoadAndSave.xcodeproj */,
+				2FDD63081CB3A40100485426 /* Grab_UsingBufferFactory.xcodeproj */,
+			);
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485402 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485402 /* DeviceRemovalHandling */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485403 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485403 /* Grab */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485404 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485404 /* Grab_CameraEvents_Usb */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485405 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485405 /* Grab_ChunkImage_Usb */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485407 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485407 /* Grab_MultipleCameras */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485408 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485408 /* Grab_Strategies */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485410 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485410 /* Grab_UsingExposureEndEvent_Usb */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485411 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485411 /* Grab_UsingGrabLoopThread */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485412 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485412 /* Grab_UsingSequencer_Usb */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485414 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485414 /* ParametrizeCamera_AutoFunctions_Usb */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485415 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485415 /* ParametrizeCamera_Configurations */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485416 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485416 /* ParametrizeCamera_GenericParameterAccess */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485417 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485417 /* ParametrizeCamera_LoadAndSave */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485419 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485419 /* ParametrizeCamera_NativeParameterAccess_Usb */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485421 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485421 /* ParametrizeCamera_UserSets_Usb */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485423 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485423 /* Utility_Image */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485424 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485424 /* Utility_ImageFormatConverter */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485425 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485425 /* Utility_ImageLoadAndSave */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FDD63091CB3A40100485426 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FDD630D1CB3A40100485426 /* Grab_UsingBufferFactory */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		2FDD63021CB3A3F6004854F9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+			};
+			buildConfigurationList = 2FDD63051CB3A3F6004854F9 /* Build configuration list for PBXProject "PylonSamples_Usb" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2FDD63011CB3A3F6004854F9;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 4FDD63091CB3A40100485402 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485402 /* DeviceRemovalHandling.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485403 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485403 /* Grab.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485404 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485404 /* Grab_CameraEvents_Usb.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485405 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485405 /* Grab_ChunkImage_Usb.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485407 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485407 /* Grab_MultipleCameras.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485408 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485408 /* Grab_Strategies.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485426 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485426 /* Grab_UsingBufferFactory.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485410 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485410 /* Grab_UsingExposureEndEvent_Usb.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485411 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485411 /* Grab_UsingGrabLoopThread.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485412 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485412 /* Grab_UsingSequencer_Usb.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485414 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485414 /* ParametrizeCamera_AutoFunctions_Usb.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485415 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485415 /* ParametrizeCamera_Configurations.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485416 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485416 /* ParametrizeCamera_GenericParameterAccess.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485417 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485417 /* ParametrizeCamera_LoadAndSave.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485419 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485419 /* ParametrizeCamera_NativeParameterAccess_Usb.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485421 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485421 /* ParametrizeCamera_UserSets_Usb.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485423 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485423 /* Utility_Image.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485424 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485424 /* Utility_ImageFormatConverter.xcodeproj */;
+				},
+				{
+					ProductGroup = 4FDD63091CB3A40100485425 /* Products */;
+					ProjectRef = 2FDD63081CB3A40100485425 /* Utility_ImageLoadAndSave.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		5FDD630D1CB3A40100485402 /* DeviceRemovalHandling */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = DeviceRemovalHandling;
+			remoteRef = 1FDD630C1CB3A40100485402 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485403 /* Grab */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Grab;
+			remoteRef = 1FDD630C1CB3A40100485403 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485404 /* Grab_CameraEvents_Usb */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Grab_CameraEvents_Usb;
+			remoteRef = 1FDD630C1CB3A40100485404 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485405 /* Grab_ChunkImage_Usb */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Grab_ChunkImage_Usb;
+			remoteRef = 1FDD630C1CB3A40100485405 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485407 /* Grab_MultipleCameras */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Grab_MultipleCameras;
+			remoteRef = 1FDD630C1CB3A40100485407 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485408 /* Grab_Strategies */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Grab_Strategies;
+			remoteRef = 1FDD630C1CB3A40100485408 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485410 /* Grab_UsingExposureEndEvent_Usb */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Grab_UsingExposureEndEvent_Usb;
+			remoteRef = 1FDD630C1CB3A40100485410 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485411 /* Grab_UsingGrabLoopThread */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Grab_UsingGrabLoopThread;
+			remoteRef = 1FDD630C1CB3A40100485411 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485412 /* Grab_UsingSequencer_Usb */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Grab_UsingSequencer_Usb;
+			remoteRef = 1FDD630C1CB3A40100485412 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485414 /* ParametrizeCamera_AutoFunctions_Usb */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = ParametrizeCamera_AutoFunctions_Usb;
+			remoteRef = 1FDD630C1CB3A40100485414 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485415 /* ParametrizeCamera_Configurations */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = ParametrizeCamera_Configurations;
+			remoteRef = 1FDD630C1CB3A40100485415 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485416 /* ParametrizeCamera_GenericParameterAccess */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = ParametrizeCamera_GenericParameterAccess;
+			remoteRef = 1FDD630C1CB3A40100485416 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485417 /* ParametrizeCamera_LoadAndSave */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = ParametrizeCamera_LoadAndSave;
+			remoteRef = 1FDD630C1CB3A40100485417 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485419 /* ParametrizeCamera_NativeParameterAccess_Usb */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = ParametrizeCamera_NativeParameterAccess_Usb;
+			remoteRef = 1FDD630C1CB3A40100485419 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485421 /* ParametrizeCamera_UserSets_Usb */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = ParametrizeCamera_UserSets_Usb;
+			remoteRef = 1FDD630C1CB3A40100485421 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485423 /* Utility_Image */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Utility_Image;
+			remoteRef = 1FDD630C1CB3A40100485423 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485424 /* Utility_ImageFormatConverter */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Utility_ImageFormatConverter;
+			remoteRef = 1FDD630C1CB3A40100485424 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485425 /* Utility_ImageLoadAndSave */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Utility_ImageLoadAndSave;
+			remoteRef = 1FDD630C1CB3A40100485425 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5FDD630D1CB3A40100485426 /* Grab_UsingBufferFactory */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Grab_UsingBufferFactory;
+			remoteRef = 1FDD630C1CB3A40100485426 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin XCBuildConfiguration section */
+		2FDD63061CB3A3F6004854F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		2FDD63071CB3A3F6004854F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2FDD63051CB3A3F6004854F9 /* Build configuration list for PBXProject "PylonSamples_Usb" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2FDD63061CB3A3F6004854F9 /* Debug */,
+				2FDD63071CB3A3F6004854F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2FDD63021CB3A3F6004854F9 /* Project object */;
+}
